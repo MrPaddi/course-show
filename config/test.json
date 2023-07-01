@@ -1,0 +1,5 @@
+{
+	"SqliteDBPath": "db.sqlite",
+	"LoggingPath": "log/app.log",
+	"Port": "8000"
+}
